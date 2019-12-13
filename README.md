@@ -19,9 +19,10 @@ I have used two models, FbProphet and ARIMA to determine the demand for a produc
 
 ## Exploratory Data Analysis :
 
-products with highest demand
-Order demand over the years
-Demand for Product 1359 over the years
+##### products with highest demand
+##### Order demand over the years
+##### Demand for Product 1359 over the years
+
 
 ## Forecasting Models
 
